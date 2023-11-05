@@ -1,4 +1,4 @@
 package com.example.proyectoEstructuras;
 
-public class ProyectoEstructuras 
+public class ProyectoEstructuras{
 }
